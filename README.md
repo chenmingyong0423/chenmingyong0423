@@ -1,16 +1,18 @@
-### Hi there 👋
+# 个人介绍
+🔭我是陈明勇，一个热爱技术，喜欢专研技术的程序员;
 
-<!--
-**chenmingyong0423/chenmingyong0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱主要涉及服务端开发领域，编程语言略懂 Go、Java，前端也会点，基本的小网站和小程序能独立开发。
+# 座右铭
+😄在学习的过程中赚钱，在赚钱的过程中学习。
+# 输出倒逼输入
+✨写作 —— 一种独特的倒逼成长的方式。
 
-Here are some ideas to get you started:
+🌱个人观点：写作实际上是一种强大的自我提升工具，它能帮助我们在思维、表达、自律等多个方面实现成长。
+# 联系方式
+📫微信：chenmingyong1999
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫个人网站：https://chenmingyong.cn
+
+📫公众号：Go技术干货
+
+📫邮箱：chenmingyong5873@126.com
