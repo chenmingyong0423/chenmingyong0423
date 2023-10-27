@@ -15,4 +15,6 @@
 
 📫个人网站：https://chenmingyong.cn
 
-📫邮箱：chenmingyong5873@126.com
+📫国内邮箱：chenmingyong5873@126.com
+
+📫国际邮箱：chenmingyong1999@gmail.com
