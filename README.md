@@ -1,3 +1,4 @@
+[![chenmingyong0423's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenmingyong0423)](https://github.com/chenmingyong0423)
 # 个人介绍
 🔭我是陈明勇，一个热爱技术，喜欢钻研技术的程序员;
 
