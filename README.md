@@ -21,7 +21,3 @@
 📫国内邮箱：chenmingyong5873@126.com
 
 📫国际邮箱：chenmingyong1999@gmail.com
-
-📫Instagram：chenmingyong0423
-
-📫X：@chenmingyong66
