@@ -1,4 +1,32 @@
 [![chenmingyong0423's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenmingyong0423)](https://github.com/chenmingyong0423)
+
+### About Me  
+🔭 I'm **Mingyong Chen**, a passionate programmer who loves exploring and digging deep into technology.
+
+🌱 My main focus is backend development. I'm familiar with **Go** and **Java**, and also have some frontend skills — I can independently build simple websites and mini programs.
+
+### Motto  
+😄 *"Earn while learning, learn while earning."*
+
+### Learning by Sharing  
+✨ **Writing** – a unique and effective way to force growth.
+
+🌱 In my opinion, writing is a powerful tool for self-improvement. It helps sharpen our thinking, improve our communication, and cultivate discipline.
+
+### Get in Touch  
+The road to success isn’t crowded — want to team up?
+
+📫 Common username across tech communities: **陈明勇**
+
+📫 WeChat Official Account & Video Channel: **程序员陈明勇**
+
+📫 Personal Website: [https://chenmingyong.cn](https://chenmingyong.cn)
+
+📫 Email (China): **chenmingyong5873@126.com**  
+📫 Email (International): **chenmingyong1999@gmail.com**
+
+---
+
 # 个人介绍
 🔭我是陈明勇，一个热爱技术，喜欢钻研技术的程序员;
 
@@ -12,9 +40,9 @@
 # 联系方式
 成功的路上并不拥挤，有没有兴趣结个伴？
 
-📫技术社区通用昵称：陈明勇
+📫技术社区通用昵称：**陈明勇**
 
-📫公众号&视频号：程序员陈明勇
+📫公众号&视频号：**程序员陈明勇**
 
 📫个人网站：https://chenmingyong.cn
 
